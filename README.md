@@ -1,8 +1,8 @@
 # DC38338 Wireless Village - Wardriving Script
 
 <p align="center">
-  <img src="wireless-village-transparent.png" alt="Wireless Village" width="400"/>
-  <img src="defcon-transparent.png" alt="DC38338" width="255"/>
+  <img src="public/wireless-village-transparent.png" alt="Wireless Village" width="400"/>
+  <img src="public/defcon-transparent.png" alt="DC38338" width="255"/>
 </p>
 
 **Autor:** Dion Mulaj - Th3Mayh3m
