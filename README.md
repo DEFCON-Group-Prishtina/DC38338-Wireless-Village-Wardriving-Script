@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="wireless-village-transparent.png" alt="Wireless Village" width="400"/>
-  <img src="defcon-transparent.png" alt="Second Image" width="255"/>
+  <img src="defcon-transparent.png" alt="DC38338" width="255"/>
 </p>
 
 **Autor:** Dion Mulaj - Th3Mayh3m
